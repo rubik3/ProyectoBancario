@@ -22,4 +22,10 @@ public class CalculadoraVer {
 		int resul = num1 * num2;
 		return resul;
 	}
+	
+	public int divide() {
+		int resul = num1 / num2;
+		return resul;
+	}
+	
 }
