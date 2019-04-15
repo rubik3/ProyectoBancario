@@ -12,4 +12,9 @@ public class CalculadoraVer {
 		int resul = num1 + num2;
 		return resul;
 	}
+	
+	public int resta() { 
+		int resul = num1 - num2;
+		return resul;
+	}
 }
