@@ -7,10 +7,28 @@ import org.junit.Test;
 public class CreditoTest {
 
 	@Test
-	public void testIngresar() {
-		//Para bailar la bamba....
+	public void testRetirar() {
+		fail("Not yet implemented");
 	}
 
-	
+	@Test
+	public void testIngresar() {
+		//Nuevo comentario
+	}
+
+	@Test
+	public void testPagoEnEstablecimiento() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testCredito() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testLiquidar() {
+		fail("Not yet implemented");
+	}
 
 }
