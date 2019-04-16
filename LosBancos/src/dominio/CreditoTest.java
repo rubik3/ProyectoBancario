@@ -1,33 +1,33 @@
 package dominio;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-class CreditoTest {
+public class CreditoTest {
 
 	@Test
-	void testRetirar() {
+	public void testRetirar() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	void testIngresar() {
+	public void testIngresar() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	void testPagoEnEstablecimiento() {
+	public void testPagoEnEstablecimiento() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	void testCredito() {
+	public void testCredito() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	void testLiquidar() {
+	public void testLiquidar() {
 		fail("Not yet implemented");
 	}
 
